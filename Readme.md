@@ -1,0 +1,4 @@
+Duit
+Uang
+Pulus
+Piti
